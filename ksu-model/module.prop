@@ -1,0 +1,6 @@
+id=NetMount-Android
+name=网络挂载 (NetMount)
+version=1.0.0
+versionCode=1
+author=TR1C
+description=通过 Web UI 挂载网络存储 (WebDAV, SFTP, SMB)。
