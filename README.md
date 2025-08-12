@@ -1,6 +1,5 @@
 # NetMount-Android 网络挂载
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![KernelSU](https://img.shields.io/badge/KernelSU-Compatible-green.svg)](https://kernelsu.org/)
 
 ## 简介
